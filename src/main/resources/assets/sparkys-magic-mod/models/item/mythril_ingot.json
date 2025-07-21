@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sparkys-magic-mod:item/mythril_ingot"
+  }
+}
